@@ -31,42 +31,5 @@ My name is Konstantin Turusov and I am a software developer and a machine learni
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [koroteev.site](https://koroteev.site/blog)
-
-<!-- ## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/koroteevmv/koroteevmv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=koroteevmv&hide=html,css,scss&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-<a href="https://github.com/koroteevmv/koroteevmv">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=koroteevmv&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Mikhail's GitHub Stats" />
-</a>
-
-<a href="https://github.com/koroteevmv/PyPGM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koroteevmv&repo=PyPGM&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/koroteevmv/PyInference">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koroteevmv&repo=PyInference&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/koroteevmv/ML_course">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koroteevmv&repo=ML_course&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/koroteevmv/mapreducepy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koroteevmv&repo=mapreducepy&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/koroteevmv/allocation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koroteevmv&repo=allocation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/koroteevmv/cloud-panel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=koroteevmv&repo=cloud-panel&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> -->
-
 ## 📫 Reach me on
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/koroteevmv) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCPe6h6MY8XZpLV7oRLqRUwQ) [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Mikhail_Koroteev) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/koroteevmv/)
