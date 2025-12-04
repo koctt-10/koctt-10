@@ -1,5 +1,3 @@
-<!-- ![Header](https://raw.githubusercontent.com/koroteevmv/koroteevmv.github.io/master/assets/images/splash_image.jpg "Header")](https://koroteev.site/) -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ##  👨‍💻 Whoami
 
