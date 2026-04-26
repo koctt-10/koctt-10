@@ -47,7 +47,3 @@ I manage a Data Science team and actively advance CV & NLP through education, co
 </p>
 
 
-
-<p align="left">
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Koldim2001&count_private=true&hide=issues,contribs&rank_icon=github&show_icons=false&include_all_commits=true&hide_border=true&hide_title=true" />  
-</p>
