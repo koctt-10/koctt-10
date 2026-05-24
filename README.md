@@ -2,7 +2,7 @@
 
 ### Computer Vision Engineer | DS 
 
-I manage a Data Science team and actively advance CV & NLP through education, conference speaking, and open-source. Focused on end-to-end ML/DL pipelines — from data preparation to production serving.
+I'm a Data Scientist and actively advance CV & NLP through education and open-source. Focused on end-to-end ML/DL pipelines — from data preparation to production serving.
 
 <h3 align="left">Connect with me:</h3>
 
