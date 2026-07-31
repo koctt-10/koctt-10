@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Konsatntin Turusov
 
-### Computer Vision Engineer | DS 
+### NLP Engineer | DS 
 
 I'm a Data Scientist and actively advance CV & NLP through education and open-source. Focused on end-to-end ML/DL pipelines — from data preparation to production serving.
 
